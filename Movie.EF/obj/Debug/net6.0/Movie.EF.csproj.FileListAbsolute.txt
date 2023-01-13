@@ -1,0 +1,17 @@
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\bin\Debug\net6.0\Movie.EF.deps.json
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\bin\Debug\net6.0\Movie.EF.dll
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\bin\Debug\net6.0\Movie.EF.pdb
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\obj\Debug\net6.0\Movie.EF.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\obj\Debug\net6.0\Movie.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\obj\Debug\net6.0\Movie.EF.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\obj\Debug\net6.0\Movie.EF.AssemblyInfo.cs
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\obj\Debug\net6.0\Movie.EF.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\obj\Debug\net6.0\Movie.EF.dll
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\obj\Debug\net6.0\refint\Movie.EF.dll
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\obj\Debug\net6.0\Movie.EF.pdb
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\obj\Debug\net6.0\ref\Movie.EF.dll
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\bin\Debug\net6.0\Movie.EF.runtimeconfig.json
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\bin\Debug\net6.0\Movie.Models.dll
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\bin\Debug\net6.0\Movie.Models.pdb
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\obj\Debug\net6.0\Movie.EF.csproj.CopyComplete
+C:\Users\dell\Desktop\test vusual\Movie.Models\Movie.EF\obj\Debug\net6.0\Movie.EF.genruntimeconfig.cache
